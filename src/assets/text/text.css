@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "hwxk";
+    src: url('./STXINGKA.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "heiti";
+    src: url('./SIMHEI.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "kaiti";
+    src: url('./STKAITI.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "yahei";
+    src: url('./MSYH.TTC');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "yaheibd";
+    src: url('./MSYHBD.TTC');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "yaheihl";
+    src: url('./MSYHL.TTC');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "lishu";
+    src: url('./STLITI.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "fangsong";
+    src: url('./SIMFANG.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
